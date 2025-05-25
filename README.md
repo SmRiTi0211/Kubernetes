@@ -1,1 +1,3 @@
-# Kubernetes
+# Kubernetes 
+
+This repo is all about  creating a demo voting app using kubernetes services for practice.
